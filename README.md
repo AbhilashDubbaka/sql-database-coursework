@@ -1,7 +1,7 @@
 # SQL Database Coursework
 
 This database coursework was completed as part of MSc Computing Science at Imperial College London. The repo contains SQL file with all the SQL queries, which are also outlined below under their respective question. The database could not be provided but an image showing the extract of the data is shown below:
-[![Database Extract](Database_Extract.png "Database Extract")]
+[![Database Extract](Database_Extract.JPG "Database Extract")]
 
 **Question 1**
 
